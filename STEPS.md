@@ -21,5 +21,9 @@ keytool -genkeypair -alias jemi-test-key -keyalg RSA \
 
 Reference
 
+[Encrypting and  Decrypting Configuration Property Values in Spring Cloud]: https://patrickgrimard.io/2016/03/04/encrypting-and-decrypting-configuration-property-values-in-spring-cloud/
+
+
+
 [Encrypting and  Decrypting Configuration Property Values in Spring Cloud]: https://patrickgrimard.io/2016/03/04/encrypting-and-decrypting-configuration-property-values-in-spring-cloud/	" ENCRYPTING AND DECRYPTING CONFIGURATION PROPERTY VALUES IN SPRING CLOUD"
 
